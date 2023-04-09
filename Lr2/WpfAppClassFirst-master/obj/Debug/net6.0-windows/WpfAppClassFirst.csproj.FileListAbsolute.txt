@@ -1,0 +1,44 @@
+C:\Users\Андрей Х\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\bin\Debug\net6.0-windows\WpfAppClassFirst.exe
+C:\Users\Андрей Х\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\bin\Debug\net6.0-windows\WpfAppClassFirst.deps.json
+C:\Users\Андрей Х\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\bin\Debug\net6.0-windows\WpfAppClassFirst.runtimeconfig.json
+C:\Users\Андрей Х\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\bin\Debug\net6.0-windows\WpfAppClassFirst.dll
+C:\Users\Андрей Х\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\bin\Debug\net6.0-windows\WpfAppClassFirst.pdb
+C:\Users\Андрей Х\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\obj\Debug\net6.0-windows\WpfAppClassFirst.csproj.AssemblyReference.cache
+C:\Users\Андрей Х\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Андрей Х\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Андрей Х\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\obj\Debug\net6.0-windows\WpfAppClassFirst_MarkupCompile.cache
+C:\Users\Андрей Х\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\obj\Debug\net6.0-windows\WpfAppClassFirst_MarkupCompile.lref
+C:\Users\Андрей Х\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\obj\Debug\net6.0-windows\App.baml
+C:\Users\Андрей Х\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Андрей Х\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\obj\Debug\net6.0-windows\WpfAppClassFirst.g.resources
+C:\Users\Андрей Х\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\obj\Debug\net6.0-windows\WpfAppClassFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей Х\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\obj\Debug\net6.0-windows\WpfAppClassFirst.AssemblyInfoInputs.cache
+C:\Users\Андрей Х\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\obj\Debug\net6.0-windows\WpfAppClassFirst.AssemblyInfo.cs
+C:\Users\Андрей Х\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\obj\Debug\net6.0-windows\WpfAppClassFirst.csproj.CoreCompileInputs.cache
+C:\Users\Андрей Х\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\obj\Debug\net6.0-windows\WpfAppClassFirst.dll
+C:\Users\Андрей Х\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\obj\Debug\net6.0-windows\refint\WpfAppClassFirst.dll
+C:\Users\Андрей Х\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\obj\Debug\net6.0-windows\WpfAppClassFirst.pdb
+C:\Users\Андрей Х\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\obj\Debug\net6.0-windows\WpfAppClassFirst.genruntimeconfig.cache
+C:\Users\Андрей Х\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\obj\Debug\net6.0-windows\ref\WpfAppClassFirst.dll
+C:\Users\bpvla\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\bin\Debug\net6.0-windows\WpfAppClassFirst.exe
+C:\Users\bpvla\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\bin\Debug\net6.0-windows\WpfAppClassFirst.deps.json
+C:\Users\bpvla\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\bin\Debug\net6.0-windows\WpfAppClassFirst.runtimeconfig.json
+C:\Users\bpvla\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\bin\Debug\net6.0-windows\WpfAppClassFirst.dll
+C:\Users\bpvla\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\bin\Debug\net6.0-windows\WpfAppClassFirst.pdb
+C:\Users\bpvla\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\obj\Debug\net6.0-windows\WpfAppClassFirst.csproj.AssemblyReference.cache
+C:\Users\bpvla\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\bpvla\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\bpvla\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\obj\Debug\net6.0-windows\WpfAppClassFirst_MarkupCompile.cache
+C:\Users\bpvla\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\obj\Debug\net6.0-windows\WpfAppClassFirst_MarkupCompile.lref
+C:\Users\bpvla\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\obj\Debug\net6.0-windows\App.baml
+C:\Users\bpvla\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\bpvla\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\obj\Debug\net6.0-windows\WpfAppClassFirst.g.resources
+C:\Users\bpvla\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\obj\Debug\net6.0-windows\WpfAppClassFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bpvla\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\obj\Debug\net6.0-windows\WpfAppClassFirst.AssemblyInfoInputs.cache
+C:\Users\bpvla\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\obj\Debug\net6.0-windows\WpfAppClassFirst.AssemblyInfo.cs
+C:\Users\bpvla\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\obj\Debug\net6.0-windows\WpfAppClassFirst.csproj.CoreCompileInputs.cache
+C:\Users\bpvla\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\obj\Debug\net6.0-windows\WpfAppClassFirst.dll
+C:\Users\bpvla\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\obj\Debug\net6.0-windows\refint\WpfAppClassFirst.dll
+C:\Users\bpvla\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\obj\Debug\net6.0-windows\WpfAppClassFirst.pdb
+C:\Users\bpvla\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\obj\Debug\net6.0-windows\WpfAppClassFirst.genruntimeconfig.cache
+C:\Users\bpvla\Desktop\WpfAppClassFirst-master\WpfAppClassFirst-master\obj\Debug\net6.0-windows\ref\WpfAppClassFirst.dll

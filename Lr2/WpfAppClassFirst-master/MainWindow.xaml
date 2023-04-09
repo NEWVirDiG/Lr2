@@ -1,0 +1,75 @@
+﻿<Window x:Class="WpfAppClassFirst.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppClassFirst"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Vertical"
+                    HorizontalAlignment="Center">
+            <TextBlock Text="Номер поезда:" 
+                      Width="150"
+                           Height="30"
+                           Margin="3" FontSize="16"
+                           VerticalAlignment="Center" 
+                       />
+            <TextBox Name="TxtN"  Width="150"
+                           Height="30"
+                           Margin="5" FontSize="16"
+                           VerticalAlignment="Center"
+                     />
+            <TextBlock Text="Дату отправления" 
+                        Width="150"
+                           Height="30"
+                           Margin="3" FontSize="16"
+                           VerticalAlignment="Center" 
+                       />
+            <DatePicker Name="DtDstart" Width="150"
+                           Height="30"
+                           Margin="5" FontSize="16"
+                           VerticalAlignment="Center"/>
+
+
+            <TextBlock Text="Пункт назначения:" 
+                      Width="150"
+                           Height="30"
+                           Margin="3" FontSize="16"
+                           VerticalAlignment="Center" 
+                       />
+            <TextBox Name="TxtX"  Width="150"
+                           Height="30"
+                           Margin="5" FontSize="16"
+                           VerticalAlignment="Center"
+                     />
+
+         
+
+            <Button Name="BtnSavetrain" Content="Записаться на поезд"
+                     Style="{StaticResource StyleSolveButton}"
+                    Click="BtnSavestudent_Click"/>
+            
+        </StackPanel>
+        <StackPanel Grid.Row="1" Orientation="Vertical"
+                    VerticalAlignment="Center">
+            <TextBlock Text="Результат выполнения программы:"
+                       Width="200"
+                       Margin="5"/>
+            <ListBox Name="LstTrain"
+                     Width="200"
+                     Height="80" Margin="10"/>
+            
+           
+        </StackPanel>
+
+       
+        
+
+    </Grid>
+</Window>
